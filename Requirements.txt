@@ -1,0 +1,7 @@
+Requirements
+ (i) SpeechRecognition Module
+ (ii) OpenCV Module
+ (iii) MySQL
+ (iv) Time
+ (v) Numpy
+ (vi) os
